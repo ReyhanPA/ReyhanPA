@@ -1,6 +1,6 @@
 # Hi! I am Reyhan Putra Ananda 👋
 
-I am an information system and technology student at Bandung Institute of Technology who has interest in web development and machine learning
+I am an Information System and Technology student at Bandung Institute of Technology who has interest in web development and machine learning
 
 ## 🏆 My Github Stats
 
