@@ -8,7 +8,7 @@ I am an Information System and Technology student at Bandung Institute of Techno
 
 <div align="middle">
   <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ReyhanPA&show_icons=true&count_private=true&theme=buefy&include_all_commits=true" />
-  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReyhanPA&layout=compact&theme=buefy&hide=Jupyter%20Notebook" />
+  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReyhanPA&layout=compact&theme=buefy&hide=Jupyter%20Notebook,html,css" />
 </div>
 
 ## 💻 My Tech Stack
